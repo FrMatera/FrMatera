@@ -24,6 +24,17 @@ ____________________________________________
 ![Presupuestos](https://img.shields.io/badge/Presupuestos-006699?style=for-the-badge)
 ![Emprendimiento](https://img.shields.io/badge/Emprendimiento-28A745?style=for-the-badge)
 
+---
+
+## 🏅 Certificaciones Profesionales
+
+- 📘 **Excel 365 Aplicado y Power BI** – Univ. de Talca (2024)  
+- 📊 **Excel Avanzado V.365** – Univ. de Talca (2023)  
+- 🗄️ **SQL y Bases de Datos en Access** – Univ. de Talca (2021)  
+- 📑 **Excel Nivel Intermedio** – Univ. de Talca (2021)
+
+---
+
 ## 📌 Proyectos Destacados
 
 ### 🌱 Raíz en Casa – Jóvenes Emprendedores (Sercotec Maule, 2022)
@@ -43,9 +54,3 @@ Formación práctica enfocada en análisis y visualización de datos con Python.
 
 ---
 
-## 🏅 Certificaciones Profesionales
-
-- 📘 **Excel 365 Aplicado y Power BI** – Univ. de Talca (2024)  
-- 📊 **Excel Avanzado V.365** – Univ. de Talca (2023)  
-- 🗄️ **SQL y Bases de Datos en Access** – Univ. de Talca (2021)  
-- 📑 **Excel Nivel Intermedio** – Univ. de Talca (2021)
