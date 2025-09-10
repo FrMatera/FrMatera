@@ -24,42 +24,28 @@ ____________________________________________
 ![Presupuestos](https://img.shields.io/badge/Presupuestos-006699?style=for-the-badge)
 ![Emprendimiento](https://img.shields.io/badge/Emprendimiento-28A745?style=for-the-badge)
 
+## 📌 Proyectos Destacados
 
+### 🌱 Raíz en Casa – Jóvenes Emprendedores (Sercotec Maule, 2022)
+Creación de un emprendimiento de plantas ornamentales en el corazón de Talca.  
+Proyecto seleccionado y financiado dentro del programa **Jóvenes Emprendedores de Sercotec Maule**, desde la presentación de la propuesta hasta su implementación real.
 
+### 📊 Análisis Financiero y Control Presupuestario
+Desarrollo de reportes financieros y control de ingresos/gastos en **Excel avanzado**, aplicados a la gestión de negocios.  
+- Optimización de recursos y control presupuestario.  
+- Diseño de dashboards y planillas dinámicas.  
 
-# Hi there, I'm Fran 👋
+### 💻 Bootcamp de Ciencia de Datos (En curso)
+Formación práctica enfocada en análisis y visualización de datos con Python.  
+- Uso de Google Colab como entorno principal.  
+- Manejo de librerías como pandas, numpy, matplotlib, seaborn y scikit-learn.  
+- Desarrollo de proyectos aplicados para la toma de decisiones.
 
-**Bio**  
-Ingeniera en Control de Gestión | Análisis financiero y entrepreneurship | Formación en Ciencia de Datos
+---
 
-##  Tecnologías y Herramientas
+## 🏅 Certificaciones Profesionales
 
-**Lenguajes y Consultas**  
-![Excel](...)  
-![SQL](...)  
-![Python](...)  
-
-**Visualización y Análisis**  
-![Power BI](...)  
-![Google Colab](...)  
-![Data Science Bootcamp](...)  
-
-**Gestión y Emprendimiento**  
-![Control de Gestión](...)  
-![Presupuestos](...)  
-![Emprendimiento](...)
-
-##  Proyectos destacados
-
-### **Jóvenes Emprendedores (Sercotec Maule) – Raíz en Casa (2022)**  
-Participé en el programa **Jóvenes Emprendedores de Sercotec Maule**, presenté *Raíz en Casa* —un vivero de plantas ornamentales ubicado en el corazón de Talca— y fui seleccionada para ejecutar mi plan de negocio con apoyo y financiamiento.
-
-*(Aquí podrías añadir un link al repositorio, fotos, plan de negocio en PDF o presentación.)*
-
-### Otros proyectos (ejemplos)
-- Control de presupuestos en Excel  
-- Notebooks de análisis en Colab (Python)
-
-##  Contacto  
-- Correo: [tu correo]  
-- LinkedIn: [tu perfil]
+- 📘 **Excel 365 Aplicado y Power BI** – Univ. de Talca (2024)  
+- 📊 **Excel Avanzado V.365** – Univ. de Talca (2023)  
+- 🗄️ **SQL y Bases de Datos en Access** – Univ. de Talca (2021)  
+- 📑 **Excel Nivel Intermedio** – Univ. de Talca (2021)
