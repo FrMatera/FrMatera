@@ -47,13 +47,13 @@ Desarrollo de reportes financieros y control de ingresos/gastos en **Excel avanz
 - Optimización de recursos y control presupuestario.  
 - Diseño de dashboards y planillas dinámicas.  
 
-### 💻 Bootcamp de Ciencia de Datos (Talento Digital, May 2025 – Sep 2025)
+### 💻 Bootcamp de Ciencia de Datos (Talento Digital, 2025)
 Formación práctica enfocada en análisis y visualización de datos con Python.  
 - Uso de Google Colab como entorno principal.  
 - Manejo de librerías como pandas, numpy, matplotlib, seaborn y scikit-learn.  
 - Desarrollo de proyectos aplicados para análisis y exploración de datos.
 
-### 📈 Bootcamp de Análisis de Datos (Talento Digital, Dic 2025 – Mar 2026)
+### 📈 Bootcamp de Análisis de Datos (Talento Digital, 2026)
 Formación enfocada en análisis de datos y generación de insights para la toma de decisiones.  
 - Uso de **Python, SQL y herramientas de visualización de datos**.  
 - Desarrollo de análisis exploratorio de datos (EDA).  
